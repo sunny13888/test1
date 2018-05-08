@@ -1,9 +1,11 @@
 # test1
-# About #
-                          ## Authors ##
-                             John Doe
+```
+# About
+## Authors
+John Doe
+# Directions
+https://github.com/registerguard/ballot.git
+# License
+MIT
+```
 
-                        ### Directions ###
-          https://github.com/registerguard/ballot.git
-                         #### License ####
-                                  MIT
