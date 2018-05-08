@@ -1,14 +1,14 @@
 # test1
 
 	
-About
-Authors
-John Doe
+# About
 
-Directions
-Ballot
+## Authors
 
-License
-MIT
+# Directions
+
+# License
+
+
 
 
