@@ -1,5 +1,5 @@
 # test1
-```
+
 # About
 ## Authors
 John Doe
@@ -7,5 +7,4 @@ John Doe
 https://github.com/registerguard/ballot.git
 # License
 MIT
-```
 
